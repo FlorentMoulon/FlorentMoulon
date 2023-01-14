@@ -1,24 +1,25 @@
 ## Projets perso
 
 #### Web :
-- [JS / React] https://github.com/FlorentMoulon/Choixplot
-- [PHP] https://github.com/FlorentMoulon/Generateur-de-texte
+- [JS / React] [Choixplot](https://github.com/FlorentMoulon/Choixplot)
+- [PHP] [Generateur-de-texte](https://github.com/FlorentMoulon/Generateur-de-texte)
 
-#### Autre :
-- [C++] https://github.com/FlorentMoulon/
+#### Jeu :
+- [C++] [Raclette-Simulator-2021](https://github.com/FlorentMoulon/Raclette-Simulator-2021)
+- [Python] [Ekulo](https://github.com/FlorentMoulon/Ekulo-Pygame)
 
 
 ## Projets scolaires
 
 #### POO :
-- [Java] https://github.com/FlorentMoulon/Projet-APO-Tic-tac-toe-3D
-- [C++ / SFML] https://github.com/FlorentMoulon/Somebody-Stole-My-Hat-topdown-shooter-avec-SFML-cpp
+- [Java] [Tic-tac-toe-3D](https://github.com/FlorentMoulon/Projet-APO-Tic-tac-toe-3D)
+- [C++ / SFML] [Somebody-Stole-My-Hat-topdown-shooter-avec-SFML](https://github.com/FlorentMoulon/Somebody-Stole-My-Hat-topdown-shooter-avec-SFML-cpp)
 
 #### Web :
-- [PHP] https://github.com/FlorentMoulon/Shoping-bag-Web-Project
+- [PHP] [Shoping-bag-Web-Project](https://github.com/FlorentMoulon/Shoping-bag-Web-Project)
 
 #### Autre :
-- [Python] https://github.com/FlorentMoulon/Modelisation-d-un-processeur
+- [Python] [Modelisation-d-un-processeur](https://github.com/FlorentMoulon/Modelisation-d-un-processeur)
 
 
 ## Contact
