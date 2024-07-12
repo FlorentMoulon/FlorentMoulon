@@ -1,4 +1,4 @@
-## Projets perso
+## Projets personnels
 
 #### Web :
 - [JS / React] [Choixplot](https://github.com/FlorentMoulon/Choixplot)
@@ -19,6 +19,7 @@
 - [PHP] [Shoping-bag-Web-Project](https://github.com/FlorentMoulon/Shoping-bag-Web-Project)
 
 #### Autre :
+- [Python] [2D BinPacking](https://github.com/FlorentMoulon/2DBinPacking)
 - [Python] [Modelisation-d-un-processeur](https://github.com/FlorentMoulon/Modelisation-d-un-processeur)
 
 
