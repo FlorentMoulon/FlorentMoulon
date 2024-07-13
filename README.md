@@ -26,7 +26,7 @@
 ## Web
 | Projet| Langage| Date | Description| Image |
 | ----- | ------ | ---- | ---------- | ----- |
-| [Shoping bag Web Project](https://github.com/FlorentMoulon/Shoping-bag-Web-Project) | PHP | 2022 | Site marchant basé sur un MVC en HTML et PHP |  |
+| [Shoping bag Web Project](https://github.com/FlorentMoulon/Shoping-bag-Web-Project) | PHP | 2022 | Site marchant basé sur un MVC en HTML et PHP | ![Shoping bag Web Project Image](https://github.com/FlorentMoulon/Shoping-bag-Web-Project/raw/main/Screenshot/produit-liste.png?raw=true) |
 |[Choixplot](https://github.com/FlorentMoulon/Choixplot) | JS / React | 2022 | Le choixplot est un test de personnalité de 20 questions inspiré d'Harry Potter et du code de la route |![Choixplot Image](https://github.com/FlorentMoulon/FlorentMoulon/blob/main/project-image/Screenshot-Choixplot.png?raw=true)|
 
 
