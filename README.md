@@ -18,6 +18,7 @@
 
 #### POO :
 - [Java] [Tic-tac-toe-3D](https://github.com/FlorentMoulon/Projet-APO-Tic-tac-toe-3D)
+- [Java / Swing GUI] [Jeux similateur de Potager](https://github.com/FlorentMoulon/Jeux-simulateur-de-potager)
 - [C++ / SFML] [Somebody-Stole-My-Hat-topdown-shooter-avec-SFML](https://github.com/FlorentMoulon/Somebody-Stole-My-Hat-topdown-shooter-avec-SFML-cpp)
 
 #### Web :
