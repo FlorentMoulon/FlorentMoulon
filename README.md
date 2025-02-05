@@ -19,6 +19,7 @@
 ## IA & Optimisation
 | Projet| Langage| Date | Description| Image |
 | ----- | ------ | ---- | ---------- | ----- |
+| [Image Colorization with CNN](https://github.com/FlorentMoulon/Image-Colorization) | Python / Pytorch | 2025 | Implémentation d'un CNN entraîné à prédir les channels a&b (Lab color space) d'une image en noir et blanc. Il utilise notement une architecture encoder-decoder, une weighted cross-entropy loss fuction, et un empirical color distribution balancing. | ![Image Colorization Image](https://github.com/FlorentMoulon/FlorentMoulon/blob/main/project-image/Screenshot-Image-Colorization.png) |
 | [2D BinPacking](https://github.com/FlorentMoulon/2DBinPacking) | Python | 2024 | Implémentation d'Hybrid Genetic Algorithm et du Tabu Search pour le problème du 2D BinPacking | ![2D BinPacking Image](https://github.com/FlorentMoulon/2DBinPacking/raw/master/img/solution_08.png) |
 | [Puissance 4 : MinMax, AlphaBeta et MCTS](https://github.com/FlorentMoulon/IA-Puissance-4) | Python | 2024 | Implémention des algorithmes MinMax, AlphaBeta et MCTS au jeu du puissance 4 | ![Puissance 4 Image](https://github.com/FlorentMoulon/FlorentMoulon/blob/main/project-image/Screenshot-Puissance4.png?raw=true) |
 
